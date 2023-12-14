@@ -7,7 +7,7 @@ Este proyecto de demostración utiliza Serenity con Gradle y Firefox como navega
 - Gradle instalado </br>
 - GeckoDriver descargado y en tu PATH </br>
 - Estructura del Proyecto </br></br>
-El proyecto sigue una estructura estándar de Gradle y está organizado de la siguiente manera:
+> El proyecto sigue una estructura estándar de Gradle y está organizado de la siguiente manera:
 
 - src/test/java: Contiene las clases de prueba y los runners.</br>
 - src/test/resources/features: Almacena los archivos Gherkin para Cucumber.</br>

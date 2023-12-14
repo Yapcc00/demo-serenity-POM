@@ -34,6 +34,6 @@ Esto ejecutará las pruebas y generará informes detallados en el directorio tar
 Configuración Adicional
 Si encuentras problemas al ejecutar las pruebas, asegúrate de tener las versiones correctas de Java, Gradle y GeckoDriver. Además, verifica la configuración de Serenity y WebDriver en los archivos mencionados anteriormente.
 
-[!IMPORTANT]
+> .[!IMPORTANT].
 Notas Finales
 Este proyecto de demostración proporciona una base para construir y ejecutar pruebas automatizadas con Serenity, Gradle y Firefox. Puedes personalizar la configuración según tus necesidades y agregar más características según sea necesario. ¡Diviértete probando!

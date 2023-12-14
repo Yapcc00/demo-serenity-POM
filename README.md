@@ -1,6 +1,6 @@
 
 <h1> Proyecto de Demo Serenity con Gradle y Firefox </h1>
-<h2>Patron de diseño Page Obejct Model </h2>
+<h2>Patron de diseño Page Object Model </h2>
 Este proyecto de demostración utiliza Serenity con Gradle y Firefox como navegador para ejecutar pruebas automatizadas. Serenity es un marco de trabajo de automatización de pruebas que se integra con Cucumber y JUnit para proporcionar informes detallados y legibles. </br></br>
 
 >  Requisitos Previos </br>

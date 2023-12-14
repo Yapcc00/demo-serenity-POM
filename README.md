@@ -2,11 +2,11 @@
 <h1> Proyecto de Demo Serenity con Gradle y Firefox </h1>
 Este proyecto de demostración utiliza Serenity con Gradle y Firefox como navegador para ejecutar pruebas automatizadas. Serenity es un marco de trabajo de automatización de pruebas que se integra con Cucumber y JUnit para proporcionar informes detallados y legibles.
 
-Requisitos Previos
-Java JDK instalado
-Gradle instalado
-GeckoDriver descargado y en tu PATH
-Estructura del Proyecto
+>  Requisitos Previos </br>
+- Java JDK instalado </br>
+- Gradle instalado </br>
+- GeckoDriver descargado y en tu PATH </br>
+- Estructura del Proyecto </br>
 El proyecto sigue una estructura estándar de Gradle y está organizado de la siguiente manera:
 
 src/test/java: Contiene las clases de prueba y los runners.
